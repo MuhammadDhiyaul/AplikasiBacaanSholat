@@ -26,7 +26,8 @@
                 android:layout_margin="10dp"
                 android:src="@drawable/niatsholat" />
 
-            <TextView
+            <Button
+                android:id="@+id/niatsholat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -49,7 +50,8 @@
                 android:layout_margin="10dp"
                 android:src="@drawable/shalat" />
 
-            <TextView
+            <Button
+                android:id="@+id/bacaansholat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -72,7 +74,8 @@
                 android:layout_margin="10dp"
                 android:src="@drawable/ayatkursi" />
 
-            <TextView
+            <Button
+                android:id="@+id/ayatkursi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
